@@ -57,7 +57,7 @@ function Navbar() {
       </nav>
 
 
-      {/* ============= MOBILE MENU ============ */}
+      {/* ======== MOBILE MENU ======= */}
 
       {isOpen && (
         <div
