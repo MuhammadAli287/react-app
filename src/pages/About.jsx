@@ -6,7 +6,7 @@ function About(){
     return(
         <>
         <main>
-            <Banner title='About TechHub Store' desc='Your trusted partner in the world of technology' />
+            <Banner title='About TechHub Store' desc='Your trusted partner in the world of Modern technology' />
              
               {/* story section   */}
             <section>

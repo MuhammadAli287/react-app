@@ -1,7 +1,7 @@
 //import Card from "../components/card";
 import Footer from "../components/Footer";
 //import { products } from "../data/products";
-
+import { Link } from "react-router-dom";
 
 function Home() {
     return (
@@ -40,10 +40,14 @@ function Home() {
                         </div>
                     </div>
 
+
                     <div className="text-center">
-                        <button className="bg-teal-900 px-6 py-3 m-6 font-semibold text-xl text-white animate-pulse ">
-                            View All Products 
-                        </button>
+                        <Link
+                            to="/products"
+                            className="inline-block bg-teal-900 px-6 py-3 m-6 font-semibold text-xl text-white animate-pulse"
+                        >
+                            View All Products
+                        </Link>
                     </div>
 
 
@@ -100,7 +104,7 @@ function Home() {
                     </div>
                 </section>
                 {/* form section  */}
-                <section className="bg-gray-200/80 p-30  flex   justify-center items-center">
+                <section className="bg-gray-200/80 p-30 flex justify-center items-center   ">
                     <div className="flex shadow-xl flex-col justfiy-center items-center gap-4  bg-white text-center rounded-lg  p-8 transition-200 hover:-translate-y-2 hover:shadow-2xl ">
                         <h1 className="text-2xl font-bold md:text-3xl">Subscribe to Our Newsletter</h1>
                         <p className="text-gray-600">Get exclusive deals, new products launches, and tech tips delivered to your inbox</p>
