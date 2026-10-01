@@ -2,7 +2,7 @@
 function Footer(){
     return(
         <>
-        <footer className="bg-slate-800 p-20 text-white">
+        <footer className="bg-teal-800/80 p-20 text-white">
             {/* parent div  */}
             <div className="text-center gap-4 grid md:grid-cols-4">
                 <div>
@@ -38,6 +38,9 @@ function Footer(){
                 </div>
 
             </div> 
+            <div>
+                
+            </div>
         </footer>
         </>
     )

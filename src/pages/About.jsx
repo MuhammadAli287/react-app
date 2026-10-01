@@ -11,13 +11,21 @@ function About(){
               {/* story section   */}
             <section>
               <div className="text-center mt-16 p-6">
-                <h1 className="text-4xl font-bold mb-8">Our Story </h1>
-                <p className="text-1xl text-gray-700">Lorem ipsum dolor sit amet ,ssndbjkdsahj shdo kjDHO KJDho JFSHO EJH  consectetur adipisicing elit. Vel, reprehenderit? Cupiditate itaque atque illo rem praesentium natus iure explicabo? Fuga, noem  natus iure explicabo? Fuga,n dignissimos. Maiores quis sint quasi pariatur doloremque, saepe repudiandae!</p>
-                <br />
-                <p className="text-1xl text-gray-700">Lorem ipsum dolor sit amet consecteturN herh jdho jqeh jqefhieh gojg  adipisicing elit. Vel, reprehenderit? Cupiditate itaque atque illo rem praesentium natus iure explicabo? Fuga,em pracabo? Fuga, non dignissimos. Maiores quis sint quasi pariatur doloremque, saepe repudiandae!</p>
-                   <br />
-                 <p className="text-1xl text-gray-700">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, reprehenderit?  dolor sit amet consecteturN herh jdho jqeh jqefhieh gojg  adipisicing elit. Vel, reprehenderit? Cupiditate itaque atque illo rem praesentium natus iure explicabo? Fuga, non dignissimos. Maiores quis sint quasi pariatur doloremque, saepe repudiandae!</p>
-          
+                <h1 className="text-5xl font-serif font-bold mb-2">Our Story </h1>
+                <p className="md:text-xl font-serif text-gray-700 p-6 ">
+                   
+
+Welcome to our online product store, where quality, convenience, and customer satisfaction come first. Our goal is to provide customers with a simple and enjoyable shopping experience by offering a wide range of carefully selected products in one place. We believe that online shopping should be easy, reliable, and accessible to everyone.
+
+We focus on providing products that offer good quality, useful features, and value for money. From everyday essentials to modern and stylish products, our collection is designed to meet different customer needs and preferences. We regularly improve and update our products so that our customers can discover new and useful items.
+
+Customer satisfaction is one of our biggest priorities. We aim to make every step of the shopping journey smooth, from browsing products and checking details to placing an order. We also believe in building trust with our customers through clear product information, reliable service, and a user-friendly website.
+
+Our vision is to create a trusted online shopping platform where customers can find the products they need without unnecessary difficulty. As we continue to grow, we are committed to improving our services, expanding our collection, and creating a better shopping experience for everyone.
+
+Thank you for visiting our website and choosing us for your shopping needs. We appreciate your trust and look forward to providing you with quality products and a great online shopping experience.
+
+                </p>
               </div>
 
               <div className=" m-6 grid grid-cols-1 gap-2 md:grid-cols-4">

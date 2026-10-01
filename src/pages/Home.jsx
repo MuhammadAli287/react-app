@@ -65,22 +65,22 @@ function Home() {
                 <section className="mt-20  bg-teal-900/10">
                     <h1 className="text-3xl  font-bold text-center p-12">Why Choose TechHub ?</h1>
                     <div className=" grid  md:grid-cols-4 gap-4 p-6 mb-30">
-                        <div className="bg-white p-10 text-center rounded-lg ">
+                        <div className="bg-white p-10 text-center rounded-lg hover:-translate-y-1 hover:shadow-2xl ">
                             <h1 className="text-2xl">🎇 </h1>
                             <h1 className="text-2xl font-bold">Fast Shipping</h1>
                             <p className="mt-3">Get your products delivered within 2-3 business days</p>
                         </div>
-                        <div className="bg-white  p-10 text-center rounded-lg ">
+                        <div className="bg-white  p-10 text-center rounded-lg hover:-translate-y-1 hover:shadow-2xl ">
                             <h1 className="text-2xl">💶💲</h1>
                             <h1 className="text-2xl font-bold">Best Prices</h1>
                             <p className="mt-3">Competitive pricing with regular deals and discounts</p>
                         </div>
-                        <div className="bg-white  p-10 text-center rounded-lg ">
+                        <div className="bg-white  p-10 text-center rounded-lg hover:-translate-y-1 hover:shadow-2xl ">
                             <h1 className="text-2xl">💯✅ </h1>
                             <h1 className="text-2xl font-bold">Quality Assured</h1>
                             <p className="mt-3">100% authentic products with 1-years warranty</p>
                         </div>
-                        <div className="bg-white  p-10 text-center rounded-lg ">
+                        <div className="bg-white  p-10 text-center rounded-lg hover:-translate-y-1 hover:shadow-2xl ">
                             <h1 className="text-2xl">🔂</h1>
                             <h1 className="text-2xl font-bold">24/7 Support</h1>
                             <p className="mt-3">Dedicated customer support available and the </p>
