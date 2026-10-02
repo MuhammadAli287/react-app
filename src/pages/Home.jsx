@@ -104,7 +104,7 @@ function Home() {
                     </div>
                 </section>
                 {/* form section  */}
-                <section className="bg-gray-200/80 p-18 md:p-30 flex justify-center items-center   ">
+                <section className="bg-gray-200/80 p-4 md:p-30 flex justify-center items-center   ">
                     <div className="flex shadow-xl flex-col justfiy-center items-center gap-4  bg-white text-center rounded-lg  p-8 transition-200 hover:-translate-y-2 hover:shadow-2xl ">
                         <h1 className="text-2xl font-bold md:text-3xl">Subscribe to Our Newsletter</h1>
                         <p className="text-gray-600">Get exclusive deals, new products launches, and tech tips delivered to your inbox</p>
