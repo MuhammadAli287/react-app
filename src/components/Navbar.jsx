@@ -174,7 +174,7 @@ function Navbar() {
                           hover:bg-gradient-to-r from-pink-200/90 to-blue-200/70
                          hover:border-1 hover:border-gray-300 hover:shadow-xl"
             >
-              Login
+              Log in
             </Link>
 
           </div>
