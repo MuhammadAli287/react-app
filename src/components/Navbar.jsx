@@ -28,8 +28,8 @@ function Navbar() {
     <>
       {/* ================= NAVBAR ================= */}
 
-      <nav className="fixed w-full text-white bg-gradient-to-r from-teal-600 to-gray-900 m-4 rounded-2xl backdrop-blur-md border-b border-white/30">
-        <div className="w-full px-6 sm:px-8 md:px-10 py-4 flex items-center  justify-between">
+      <nav className="fixed w-full  text-white bg-gradient-to-r from-teal-600 to-gray-900 m-4 rounded-2xl backdrop-blur-md border-b border-white/30">
+        <div className=" px-6 sm:px-8 md:px-10 py-4 flex items-center  justify-between">
 
           <div className="text-4xl font-bold">Tech<span className="text-2xl">Hub</span></div>
 
