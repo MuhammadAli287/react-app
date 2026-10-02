@@ -46,7 +46,7 @@ function Home() {
                             to="/products"
                             className="inline-block bg-teal-900 px-6 py-3 m-6 font-semibold text-xl text-white animate-pulse"
                         >
-                            View All Products
+                            View All Products ➡
                         </Link>
                     </div>
 
@@ -141,8 +141,8 @@ function Home() {
                 <section>
                     <div className="text-center text-white p-20 bg-gradient-to-l from-slate-950 to-teal-700">
                         <h1 className="text-3xl font-bold">Ready to Upgrade Your Tech?</h1>
-                        <p className="mt-4">Browser our complete collection of cutting edge products</p>
-                        <button className="px-4 py-2 font-semibold bg-white text-pink-700 rounded-lg  mt-6">Start Shopping Now ➡</button>
+                        <p className="mt-4 mb-10">Browser our complete collection of cutting edge products</p>
+                        <Link to="/products" className="px-4 py-2 animate-pulse font-semibold bg-white text-pink-700 rounded-lg  mt-10">Start Shopping Now ➡</Link>
 
                     </div>
                 </section>
