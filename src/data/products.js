@@ -7,7 +7,7 @@ const products = [
     price: 1099,
     category: "Laptops",
     rating: 4.9,
-    image: "https://images.unsplash.com/photo-1517336714739-489689fd1ca8",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjK0B1ZDfpPX5xAvqpaYqMVd0IiQ82nwqtHVbd3R3ZjQ&s=10",
     description:
       "A lightweight and powerful laptop with the Apple M3 chip, perfect for work, study, and everyday use.",
     inStock: true,
@@ -47,7 +47,7 @@ const products = [
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVFbaTu4oV3nMSwIUAMFDvtAP8UTvlztgK-COP_UCRww&s=10",
     description:
       "Premium wireless headphones with industry-leading noise cancellation and exceptional sound quality.",
-    inStock: true,
+    inStock: false,
     reviews: 512,
   },
 
@@ -110,7 +110,7 @@ const products = [
     image: "https://images.unsplash.com/photo-1527814050087-3793815479db",
     description:
       "An advanced wireless mouse designed for productivity with precision tracking and customizable controls.",
-    inStock: false,
+    inStock: true,
     reviews: 189,
   },
    {
