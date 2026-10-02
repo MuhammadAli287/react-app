@@ -104,7 +104,7 @@ function Home() {
                     </div>
                 </section>
                 {/* form section  */}
-                <section className="bg-gray-200/80 p-4 md:p-30 flex justify-center items-center   ">
+                {/* <section className="bg-gray-200/80 p-4 md:p-30 flex justify-center items-center   ">
                     <div className="flex shadow-xl flex-col justfiy-center items-center gap-4  bg-white text-center rounded-lg  p-8 transition-200 hover:-translate-y-2 hover:shadow-2xl ">
                         <h1 className="text-2xl font-bold md:text-3xl">Subscribe to Our Newsletter</h1>
                         <p className="text-gray-600">Get exclusive deals, new products launches, and tech tips delivered to your inbox</p>
@@ -115,7 +115,27 @@ function Home() {
                     </div>
 
 
-                </section>
+                </section> */}
+
+                <section className="bg-gray-200/80 px-4 py-10 md:p-16 flex justify-center items-center">
+  <div className="w-full max-w-xl flex flex-col justify-center items-center gap-4 bg-white text-center rounded-lg p-6 md:p-8 shadow-xl transition duration-200 hover:-translate-y-2 hover:shadow-2xl">
+    <h1 className="text-2xl font-bold md:text-3xl">Subscribe to Our Newsletter</h1>
+    <p className="text-gray-600 text-sm md:text-base">
+      Get exclusive deals, new product launches, and tech tips delivered to your inbox
+    </p>
+
+    <div className="mt-4 w-full flex flex-col sm:flex-row items-stretch gap-3">
+      <input
+        className="w-full flex-1 min-w-0 border border-gray-400 px-4 py-2 rounded-lg"
+        type="email"
+        placeholder="Enter Your Email Address"
+      />
+      <button className="px-5 py-2.5 font-semibold text-white bg-blue-700 rounded-lg">
+        Subscribe
+      </button>
+    </div>
+  </div>
+</section>
 
                 {/* upgrade section  */}
                 <section>
